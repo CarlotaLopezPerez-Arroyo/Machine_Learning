@@ -1,2 +1,4 @@
 # Machine_Learning
-Machine Learning in Python 
+Throughout this project a series of machine learning algorithms are applied to a data set.
+
+This project is currently unfinished
